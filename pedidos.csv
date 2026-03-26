@@ -1,0 +1,4 @@
+id,cliente,produto,valor,status,data
+1,João,Teclado,150,Pendente,2026-03-20
+2,Maria,Mouse,80,Enviado,2026-03-22
+3,Carlos,Monitor,900,Pendente,2026-03-25
